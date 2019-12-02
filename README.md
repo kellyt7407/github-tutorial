@@ -30,7 +30,10 @@
 1. Initial Repository (if there's no existing project)  
    -OR-  
 fork/clone, push/pull
-2. 
+2. Edit file
+3. Add file by using *git add .* or *git add <file>*
+4. Commit the change by using *git commit -m "commit message"*
+5. Then push by using *git push*
 
 ---
 ## Rolling Back Changes
