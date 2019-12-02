@@ -33,7 +33,11 @@ fork/clone, push/pull
 2. Edit file
 3. Add file by using *git add .* or *git add <file>*
 4. Commit the change by using *git commit -m "commit message"*
-5. Then push by using *git push*
+5. Then push the changes to local repo if needed by using *git push*  
+- **git diff**: see the difference between your current code and the previous commit
+- **git log**: see past commits
+- **git pull**: bring any change from the remote repo "down" to local
+- **git status**: lets you see which changes have been staged
 
 ---
 ## Rolling Back Changes
