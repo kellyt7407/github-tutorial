@@ -16,7 +16,11 @@
 - Requires Git
 ---
 ## Initial Setup
-1. 
+1. use **git config --global user.email "you@example.com"**
+- *example:* git config --global user.email "kellyt7407hstat.org"
+2. use **git config --global user.name "Your Name"
+- *exmaple:* git config --global user.name "Kelly Tang"
+3. 
 
 
 ---
@@ -38,10 +42,10 @@ fork/clone, push/pull
 - **git log**: see past commits
 - **git pull**: bring any change from the remote repo "down" to local
 - **git status**: lets you see which changes have been staged
-- **..**: go up to parent directory
-- **~**: goes to the root directory
-- **(tab)**: auto complete a word
-- ***git init***: initializes git in our directory (now called a repository) for version control
+- **..** : go up to parent directory
+- **~**  : goes to the root directory
+- **(tab)** : auto complete a word
+- **git init**: initializes git in our directory (now called a repository) for version control
 
 ---
 ## Rolling Back Changes
