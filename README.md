@@ -20,7 +20,8 @@
 - *example:* git config --global user.email "kellyt7407hstat.org"
 2. use **git config --global user.name "Your Name"
 - *exmaple:* git config --global user.name "Kelly Tang"
-3. 
+3. in your root directory use *cd ~*
+4. use ssh-keygen -t rsa -b 4096 -C "you@example.com" and press enter repeatly until you see a random image
 
 
 ---
