@@ -16,7 +16,7 @@
 - Requires Git
 ---
 ## Initial Setup
-
+1. 
 
 
 ---
@@ -38,6 +38,10 @@ fork/clone, push/pull
 - **git log**: see past commits
 - **git pull**: bring any change from the remote repo "down" to local
 - **git status**: lets you see which changes have been staged
+- **..**: go up to parent directory
+- **~**: goes to the root directory
+- **(tab)**: auto complete a word
+- ***git init***: initializes git in our directory (now called a repository) for version control
 
 ---
 ## Rolling Back Changes
