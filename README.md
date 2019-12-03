@@ -38,21 +38,21 @@
 1. Initial Repository (if there's no existing project)  
    -OR-  
 fork/clone, push/pull
-2. Edit file  (**talk about creating a README file**)
-3. Add file by using git add .* or *git add <file>*
-4. Commit the change by using *git commit -m "commit message"*
-5. Then push the changes to your remote if needed by using *git push*  
-- **git diff**: see the difference between your current code and the previous commit
-- **git log**: see past commits
-- **git pull**: bring any change from the remote repo "down" to local
-- **git status**: lets you see which changes have been staged
-- **..** : go up to parent directory
-- **~**  : goes to the root directory
+2. Edit file  (**talk about creating a README fi)
+3. Add file by using ```git add .``` or ```git add <file>```
+4. Commit the change by using ```git commit -m "commit message"```
+5. Then push the changes to your remotr if needed by using ```git push``` 
+- ```git diff```: see the difference between your current code and the previous commit
+- ```git log```: see past commits
+- ```git pull```: bring any change from the remote repo "down" to local
+- ```git status```: lets you see which changes have been staged
+- ```..```: go up to parent directory
+- ```~``` : goes to the root directory
 - **(tab)** : auto complete a word
-- **git init**: initializes git in our directory (now called a repository) for version control
+- ```git init```: initializes git in our directory (now called a repository) for version control
 
 ---
 ## Rolling Back Changes
 ### to undo any changes use the following
-- If you used *git init* incorrectly, use *rm -rf .git*
+- If you used ```git init``` incorrectly, use```rm -rf .git```
 - 
