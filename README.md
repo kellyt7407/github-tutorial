@@ -16,12 +16,15 @@
 - Requires Git
 ---
 ## Initial Setup
+ 
 1. use **git config --global user.email "you@example.com"**
 - *example:* git config --global user.email "kellyt7407hstat.org"
 2. use **git config --global user.name "Your Name"
 - *exmaple:* git config --global user.name "Kelly Tang"
 3. in your root directory use *cd ~*
 4. use ssh-keygen -t rsa -b 4096 -C "you@example.com" and press enter repeatly until you see a random image
+
+**you didn't explain that you need a github account first and for the ide setup link the directions that mr.mueller gave us because your directions are confusing**
 
 
 ---
@@ -35,10 +38,10 @@
 1. Initial Repository (if there's no existing project)  
    -OR-  
 fork/clone, push/pull
-2. Edit file
-3. Add file by using *git add .* or *git add <file>*
+2. Edit file  (**talk about creating a README file**)
+3. Add file by using git add .* or *git add <file>*
 4. Commit the change by using *git commit -m "commit message"*
-5. Then push the changes to local repo if needed by using *git push*  
+5. Then push the changes to your remote if needed by using *git push*  
 - **git diff**: see the difference between your current code and the previous commit
 - **git log**: see past commits
 - **git pull**: bring any change from the remote repo "down" to local
