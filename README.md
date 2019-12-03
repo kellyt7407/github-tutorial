@@ -26,7 +26,7 @@
 
 ---
 ## Repository Setup
-
+1. 
 
 
 ---
@@ -50,3 +50,6 @@ fork/clone, push/pull
 
 ---
 ## Rolling Back Changes
+### to undo any changes use the following
+- If you used *git init* incorrectly, use *rm -rf .git*
+- 
