@@ -21,8 +21,7 @@
 3. Log in CS50 with github
 4. Follow the following intruction [here](https://github.com/hstatsep/ide50)
 
-```SHH```-
-known as Secure Shell where log in isn't required used to interact with other's repository 
+- ```SHH```-known as Secure Shell where log in isn't required used to interact with other's repository 
 ---
 ## Repository Setup
 1. Use ```mkdir``` to make new repo
