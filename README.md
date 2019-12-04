@@ -29,7 +29,7 @@
 3. Use ```git init``` and check for the word master
 4. Use ```touch <file name>``` to create file and ```c9 <file name>``` to edit the file
 5. After editing file, go to [github](https://github.com/)
-6. Go to top right corner and click on *New Repository"
+6. Go to top right corner and click on *New Repository*
 7. Find the SSH key then copy and paste it into your repo
 
 ---
